@@ -1,0 +1,55 @@
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    //background-color: tomato;
+    background-image: url('../images/background.png');
+}
+.heading{
+    text-align: center;
+}
+.head-title{
+    font-size: 20px;
+    font-style: italic;
+    color: #808080;
+    font-weight: 300;
+}
+#brand{
+    color: darkorange;
+    font-size: 45px;
+    font-weight: 100;
+    line-height: 80px;
+}
+#brand-greet{
+    font-size: 30px;
+}
+.well{
+    padding: 70px 25px;
+    margin-bottom: 0px;
+}
+.panel-heading{
+    color: white;
+}
+.navbar{
+    margin-top: 0px;
+}
+i.fa{
+    color: darkorange;
+}
+.carousel-control.right, .carousel-control.left{
+    background-image: none;
+    color: #fff;
+}
+.carousel-indicators li{
+    border-color: #fff;
+}
+.carousel-indicators li.active{
+    background-color: #fff;
+}
+#editRow{
+    padding-bottom: 20px;
+    display: none;
+}
+#plusSign{
+    font-size:18px; 
+    color: goldenrod;
+}

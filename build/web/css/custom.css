@@ -1,0 +1,32 @@
+
+body{
+    //background-color: #110022;
+    background-image: url('../images/background2.png');
+}
+html,body{
+    height: 100%;
+    width: 100%;
+    display: table;
+}
+.container{
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+i{
+    //color: white;
+    color: darksalmon;
+}
+#register{
+    line-height: 10px;
+}
+#form-register-heading{
+    font-family: serif;
+    font-size: 30px;
+}
+#form-register{
+    display: none;
+}
+.well{
+    background-color: rgba(245,245,245,0.5);
+}
